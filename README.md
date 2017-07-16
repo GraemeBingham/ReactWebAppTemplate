@@ -1,5 +1,8 @@
 # React Web App Template
 
+## Important Note
+Please note that I didn't come up with set of tools or workflow myself. The credit for that goes to [Brian Holt](https://github.com/btholt) who teaches a  Frontend Masters course on React found [here](https://github.com/btholt/complete-intro-to-react). The aim of this repository was to create a boilerplate for anyone that wants to take what they learnt from the course and apply it to a new application.
+
 ## Getting Started
 1. Clone the repository
 2. Open 'package.json' and scroll to the bottom and change all the 'CHANGEME' to the appropriate values (including the 'repository' value to your repo) the following lines of code
